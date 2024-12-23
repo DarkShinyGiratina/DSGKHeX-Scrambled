@@ -12,7 +12,7 @@ Volt Absorb
 Water Absorb
 Oblivious
 Cloud Nine
-Compound Eyes
+Sixth Sense
 Insomnia
 Color Change
 Immunity
@@ -32,7 +32,7 @@ Natural Cure
 Lightning Rod
 Serene Grace
 Swift Swim
-Chlorophyll
+Solar Rush
 Illuminate
 Trace
 Huge Power
@@ -67,7 +67,7 @@ Overgrow
 Blaze
 Torrent
 Swarm
-Rock Head
+Headstrong
 Drought
 Arena Trap
 Vital Spirit
@@ -86,8 +86,8 @@ Unburden
 Heatproof
 Simple
 Dry Skin
-Download
-Iron Fist
+Instinct
+Brazen
 Poison Heal
 Adaptability
 Skill Link
@@ -95,7 +95,7 @@ Hydration
 Solar Power
 Quick Feet
 Normalize
-Sniper
+Ruthless
 Magic Guard
 No Guard
 Stall
@@ -158,7 +158,7 @@ Magic Bounce
 Sap Sipper
 Prankster
 Sand Force
-Iron Barbs
+Barbed
 Zen Mode
 Victory Star
 Turboblaze
@@ -166,7 +166,7 @@ Teravolt
 Aroma Veil
 Flower Veil
 Cheek Pouch
-Protean
+Versatility
 Fur Coat
 Magician
 Bulletproof
@@ -177,60 +177,60 @@ Sweet Veil
 Stance Change
 Gale Wings
 Mega Launcher
-Grass Pelt
+Grassy Guard
 Symbiosis
 Tough Claws
 Pixilate
 Gooey
 Aerilate
-Parental Bond
+Expertise
 Dark Aura
 Fairy Aura
 Aura Break
 Primordial Sea
 Desolate Land
-Delta Stream
+Guarding Gale
 Stamina
 Wimp Out
-Emergency Exit
+Tactical Retreat
 Water Compaction
 Merciless
 Shields Down
 Stakeout
-Water Bubble
+Liquid Veil
 Steelworker
 Berserk
 Slush Rush
 Long Reach
 Liquid Voice
-Triage
+Rapid Fire
 Galvanize
-Surge Surfer
+Volt Rush
 Schooling
 Disguise
 Battle Bond
 Power Construct
 Corrosion
 Comatose
-Queenly Majesty
+Elegance
 Innards Out
 Dancer
 Battery
 Fluffy
 Dazzling
-Soul-Heart
+Hubris
 Tangling Hair
 Receiver
 Power of Alchemy
-Beast Boost
+Proficiency
 RKS System
 Electric Surge
 Psychic Surge
 Misty Surge
 Grassy Surge
 Full Metal Body
-Shadow Shield
-Prism Armor
+Energy Shield
+Resilient
 Neuroforce
 Intrepid Sword
 Dauntless Shield
@@ -242,18 +242,18 @@ Mirror Armor
 Gulp Missile
 Stalwart
 Steam Engine
-Punk Rock
+Amplifier
 Sand Spit
-Ice Scales
-Ripen
+Permafrost
+Appetite
 Ice Face
 Power Spot
-Mimicry
+Camouflage
 Screen Cleaner
 Steely Spirit
 Perish Body
-Wandering Spirit
-Gorilla Tactics
+Hypnotize
+Brute Force
 Neutralizing Gas
 Pastel Veil
 Hunger Switch
@@ -261,7 +261,7 @@ Quick Draw
 Unseen Fist
 Curious Medicine
 Transistor
-Dragon’s Maw
+Dragon's Maw
 Chilling Neigh
 Grim Neigh
 As One
@@ -294,11 +294,11 @@ Sharpness
 Supreme Overlord
 Costar
 Toxic Debris
-Armor Tail
-Earth Eater
+Swiftness
+Subterranean
 Mycelium Might
 Hospitality
-Mind’s Eye
+Mind's Eye
 Embody Aspect
 Embody Aspect
 Embody Aspect

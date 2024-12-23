@@ -772,7 +772,7 @@ Solo
 
 
 Normal
-M-Red
+M-Pink
 
 
 
@@ -1049,7 +1049,7 @@ M-Green
 M-Blue
 M-Indigo
 M-Violet
-C-Red
+C-Pink
 C-Orange
 C-Yellow
 C-Green

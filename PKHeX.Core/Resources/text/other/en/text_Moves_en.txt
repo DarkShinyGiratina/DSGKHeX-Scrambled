@@ -1,9 +1,9 @@
 ———
-Pound
+Pummel
 Karate Chop
 Double Slap
 Comet Punch
-Mega Punch
+Seismic Fist
 Pay Day
 Fire Punch
 Ice Punch
@@ -13,44 +13,44 @@ Vise Grip
 Guillotine
 Razor Wind
 Swords Dance
-Cut
+Population Bomb
 Gust
 Wing Attack
 Whirlwind
 Fly
 Bind
-Slam
-Vine Whip
+Whiplash
+Vine Lashes
 Stomp
 Double Kick
-Mega Kick
+Megaton Kick
 Jump Kick
 Rolling Kick
 Sand Attack
 Headbutt
-Horn Attack
-Fury Attack
+Stinger Missile
+Spike Cannon
 Horn Drill
-Tackle
+Wallop
 Body Slam
 Wrap
 Take Down
-Thrash
+Kerfuffle
 Double-Edge
-Tail Whip
-Poison Sting
+Tail Wag
+Poison Dart
 Twineedle
 Pin Missile
 Leer
-Bite
+Arcane Fangs
 Growl
 Roar
 Sing
 Supersonic
 Sonic Boom
 Disable
-Acid
-Ember
+Acid Spray
+Ignite
 Flamethrower
 Mist
 Water Gun
@@ -58,18 +58,18 @@ Hydro Pump
 Surf
 Ice Beam
 Blizzard
-Psybeam
+Pendulum Wave
 Bubble Beam
 Aurora Beam
 Hyper Beam
-Peck
+Fury Pecks
 Drill Peck
 Submission
 Low Kick
 Counter
-Seismic Toss
+Ancient Impact
 Strength
-Absorb
+Siphon
 Mega Drain
 Leech Seed
 Growth
@@ -86,12 +86,12 @@ Thunder Shock
 Thunderbolt
 Thunder Wave
 Thunder
-Rock Throw
+Rock Drop
 Earthquake
 Fissure
 Dig
 Toxic
-Confusion
+Mind Pulse
 Psychic
 Hypnosis
 Meditate
@@ -99,13 +99,13 @@ Agility
 Quick Attack
 Rage
 Teleport
-Night Shade
+Soul Absorb
 Mimic
 Screech
-Double Team
+Game Plan
 Recover
 Harden
-Minimize
+Deflate
 Smokescreen
 Confuse Ray
 Withdraw
@@ -118,14 +118,14 @@ Focus Energy
 Bide
 Metronome
 Mirror Move
-Self-Destruct
+Detonate
 Egg Bomb
-Lick
+Devious Lick
 Smog
-Sludge
+Sludge Fling
 Bone Club
 Fire Blast
-Waterfall
+Hydro Assault
 Clamp
 Swift
 Skull Bash
@@ -134,7 +134,7 @@ Constrict
 Amnesia
 Kinesis
 Soft-Boiled
-High Jump Kick
+Divebomb
 Glare
 Dream Eater
 Poison Gas
@@ -158,7 +158,7 @@ Rest
 Rock Slide
 Hyper Fang
 Sharpen
-Conversion
+Acclimate
 Tri Attack
 Super Fang
 Slash
@@ -174,20 +174,20 @@ Flame Wheel
 Snore
 Curse
 Flail
-Conversion 2
+Accustom
 Aeroblast
 Cotton Spore
 Reversal
 Spite
-Powder Snow
+Frost Flurry
 Protect
 Mach Punch
 Scary Face
 Feint Attack
-Sweet Kiss
+Dreamy Kiss
 Belly Drum
 Sludge Bomb
-Mud-Slap
+Mud Bomber
 Octazooka
 Spikes
 Zap Cannon
@@ -197,7 +197,7 @@ Perish Song
 Icy Wind
 Detect
 Bone Rush
-Lock-On
+Take Aim
 Outrage
 Sandstorm
 Giga Drain
@@ -206,11 +206,11 @@ Charm
 Rollout
 False Swipe
 Swagger
-Milk Drink
+Enrich
 Spark
 Fury Cutter
-Steel Wing
-Mean Look
+Steel Wingbeat
+Mesmer-Eyes
 Attract
 Sleep Talk
 Heal Bell
@@ -219,9 +219,9 @@ Present
 Frustration
 Safeguard
 Pain Split
-Sacred Fire
+Bitter Blaze
 Magnitude
-Dynamic Punch
+Knockout Punch
 Megahorn
 Dragon Breath
 Baton Pass
@@ -230,7 +230,7 @@ Pursuit
 Rapid Spin
 Sweet Scent
 Iron Tail
-Metal Claw
+Laceration
 Vital Throw
 Morning Sun
 Synthesis
@@ -247,13 +247,13 @@ Extreme Speed
 Ancient Power
 Shadow Ball
 Future Sight
-Rock Smash
+Boulder Bash
 Whirlpool
 Beat Up
 Fake Out
 Uproar
 Stockpile
-Spit Up
+Spew Out
 Swallow
 Heat Wave
 Hail
@@ -266,7 +266,7 @@ Focus Punch
 Smelling Salts
 Follow Me
 Nature Power
-Charge
+Recharge
 Taunt
 Helping Hand
 Trick
@@ -290,11 +290,11 @@ Grudge
 Snatch
 Secret Power
 Dive
-Arm Thrust
+Smelling Salts
 Camouflage
-Tail Glow
+Power Glow
 Luster Purge
-Mist Ball
+Feather Ball
 Feather Dance
 Teeter Dance
 Blaze Kick
@@ -304,11 +304,11 @@ Needle Arm
 Slack Off
 Hyper Voice
 Poison Fang
-Crush Claw
+Jagged Edge
 Blast Burn
 Hydro Cannon
 Meteor Mash
-Astonish
+Spook
 Weather Ball
 Aromatherapy
 Fake Tears
@@ -327,8 +327,8 @@ Shadow Punch
 Extrasensory
 Sky Uppercut
 Sand Tomb
-Sheer Cold
-Muddy Water
+Absofusion
+Mud Shower
 Bullet Seed
 Aerial Ace
 Icicle Spear
@@ -341,9 +341,9 @@ Bulk Up
 Bounce
 Mud Shot
 Poison Tail
-Covet
+Hoodwink
 Volt Tackle
-Magical Leaf
+Leaf Flurry
 Water Sport
 Calm Mind
 Leaf Blade
@@ -362,7 +362,7 @@ Gyro Ball
 Healing Wish
 Brine
 Natural Gift
-Feint
+Think Fast
 Pluck
 Tailwind
 Acupressure
@@ -378,7 +378,7 @@ Trump Card
 Heal Block
 Wring Out
 Power Trick
-Gastro Acid
+Acid Reflux
 Lucky Chant
 Me First
 Copycat
@@ -390,10 +390,10 @@ Worry Seed
 Sucker Punch
 Toxic Spikes
 Heart Swap
-Aqua Ring
+Rehydrate
 Magnet Rise
 Flare Blitz
-Force Palm
+Force Waves
 Aura Sphere
 Rock Polish
 Poison Jab
@@ -433,7 +433,7 @@ Rock Climb
 Defog
 Trick Room
 Draco Meteor
-Discharge
+Plasma Pulse
 Lava Plume
 Leaf Storm
 Power Whip
@@ -447,21 +447,21 @@ Captivate
 Stealth Rock
 Grass Knot
 Chatter
-Judgment
-Bug Bite
+Ancient Force
+Bug Biting
 Charge Beam
 Wood Hammer
 Aqua Jet
-Attack Order
+Queen's Command
 Defend Order
 Heal Order
 Head Smash
 Double Hit
-Roar of Time
-Spacial Rend
+Drakonic Beam
+Subspace Tear
 Lunar Dance
 Crush Grip
-Magma Storm
+Land's Wrath
 Dark Void
 Seed Flare
 Ominous Wind
@@ -486,15 +486,15 @@ Heavy Slam
 Synchronoise
 Electro Ball
 Soak
-Flame Charge
+Pyro Dash
 Coil
 Low Sweep
-Acid Spray
+Sludge Shot
 Foul Play
 Simple Beam
 Entrainment
 After You
-Round
+Harmonize
 Echoed Voice
 Chip Away
 Clear Smog
@@ -508,7 +508,7 @@ Hex
 Sky Drop
 Shift Gear
 Circle Throw
-Incinerate
+Bursting Flames
 Quash
 Acrobatics
 Reflect Type
@@ -531,7 +531,7 @@ Drill Run
 Dual Chop
 Heart Stamp
 Horn Leech
-Sacred Sword
+Sacred Slash
 Razor Shell
 Heat Crash
 Leaf Tornado
@@ -545,31 +545,31 @@ Head Charge
 Gear Grind
 Searing Shot
 Techno Blast
-Relic Song
-Secret Sword
-Glaciate
-Bolt Strike
-Blue Flare
+Serenade
+Radiant Edge
+Absolute Zero
+Electro Assault
+Dragon's Fury
 Fiery Dance
-Freeze Shock
+Cryo-Overload
 Ice Burn
-Snarl
+Dismal Cry
 Icicle Crash
-V-create
-Fusion Flare
-Fusion Bolt
+Blazing Assault
+Wildfire
+High Voltage
 Flying Press
 Mat Block
 Belch
 Rototiller
 Sticky Web
-Fell Stinger
+Finishing Blow
 Phantom Force
 Trick-or-Treat
-Noble Roar
+Battle Cry
 Ion Deluge
 Parabolic Charge
-Forest’s Curse
+Forest's Curse
 Petal Blizzard
 Freeze-Dry
 Disarming Voice
@@ -582,30 +582,30 @@ Grassy Terrain
 Misty Terrain
 Electrify
 Play Rough
-Fairy Wind
+Pixie Dust
 Moonblast
 Boomburst
 Fairy Lock
-King’s Shield
+King's Shield
 Play Nice
 Confide
 Diamond Storm
-Steam Eruption
-Hyperspace Hole
+Steam Shot
+Psycho Break
 Water Shuriken
 Mystical Fire
 Spiky Shield
 Aromatic Mist
-Eerie Impulse
+Strange Impulse
 Venom Drench
 Powder
 Geomancy
 Magnetic Flux
-Happy Hour
+Jackpot
 Electric Terrain
 Dazzling Gleam
 Celebrate
-Hold Hands
+Befriend
 Baby-Doll Eyes
 Nuzzle
 Hold Back
@@ -614,9 +614,9 @@ Power-Up Punch
 Oblivion Wing
 Thousand Arrows
 Thousand Waves
-Land’s Wrath
+Land's Wrath
 Light of Ruin
-Origin Pulse
+Torrential Pulse
 Precipice Blades
 Dragon Ascent
 Hyperspace Fury
@@ -657,18 +657,18 @@ Black Hole Eclipse
 Twinkle Tackle
 Twinkle Tackle
 Catastropika
-Shore Up
+Sedimend
 First Impression
 Baneful Bunker
 Spirit Shackle
-Darkest Lariat
-Sparkling Aria
+Brutal Swing
+Bubble Burst
 Ice Hammer
 Floral Healing
 High Horsepower
 Strength Sap
 Solar Blade
-Leafage
+Seed Shot
 Spotlight
 Toxic Thread
 Laser Focus
@@ -677,7 +677,7 @@ Throat Chop
 Pollen Puff
 Anchor Shot
 Psychic Terrain
-Lunge
+Bug Bomber
 Fire Lash
 Power Trip
 Burn Up
@@ -689,9 +689,9 @@ Core Enforcer
 Trop Kick
 Instruct
 Beak Blast
-Clanging Scales
+Drakonic Voice
 Dragon Hammer
-Brutal Swing
+Night Burst
 Aurora Veil
 Sinister Arrow Raid
 Malicious Moonsault
@@ -703,19 +703,19 @@ Pulverizing Pancake
 Extreme Evoboost
 Genesis Supernova
 Shell Trap
-Fleur Cannon
+Eternal Beam
 Psychic Fangs
 Stomping Tantrum
 Shadow Bone
 Accelerock
 Liquidation
-Prismatic Laser
+Radiant Outburst
 Spectral Thief
-Sunsteel Strike
-Moongeist Beam
+Meteor Impact
+Spectral Beam
 Tearful Look
 Zing Zap
-Nature’s Madness
+Nature's Madness
 Multi-Attack
 10,000,000 Volt Thunderbolt
 Mind Blown
@@ -724,7 +724,7 @@ Photon Geyser
 Light That Burns the Sky
 Searing Sunraze Smash
 Menacing Moonraze Maelstrom
-Let’s Snuggle Forever
+Let's Snuggle Forever
 Splintered Stormshards
 Clangorous Soulblaze
 Zippy Zap
@@ -745,11 +745,11 @@ Max Guard
 Dynamax Cannon
 Snipe Shot
 Jaw Lock
-Stuff Cheeks
+Engorge
 No Retreat
 Tar Shot
 Magic Powder
-Dragon Darts
+Draco Jet
 Teatime
 Octolock
 Bolt Beak
@@ -779,19 +779,19 @@ Decorate
 Drum Beating
 Snap Trap
 Pyro Ball
-Behemoth Blade
-Behemoth Bash
+Brutal Blade
+Brutal Bash
 Aura Wheel
 Breaking Swipe
-Branch Poke
+Branch Leech
 Overdrive
-Apple Acid
+Caustic Acid
 Grav Apple
-Spirit Break
+Soul Crush
 Strange Steam
 Life Dew
 Obstruct
-False Surrender
+Hell Thrust
 Meteor Assault
 Eternabeam
 Steel Beam
@@ -804,12 +804,12 @@ Misty Explosion
 Grassy Glide
 Rising Voltage
 Terrain Pulse
-Skitter Smack
+Creeping Strike
 Burning Jealousy
 Lash Out
 Poltergeist
-Corrosive Gas
-Coaching
+Noxious Gas
+Time Out
 Flip Turn
 Triple Axel
 Dual Wingbeat
@@ -822,8 +822,8 @@ Dragon Energy
 Freezing Glare
 Fiery Wrath
 Thunderous Kick
-Glacial Lance
-Astral Barrage
+Ice Breaker
+Astral Storm
 Eerie Spell
 Dire Claw
 Psyshield Bash
@@ -840,7 +840,7 @@ Headlong Rush
 Barb Barrage
 Esper Wing
 Bitter Malice
-Shelter
+Molt
 Triple Arrows
 Infernal Parade
 Ceaseless Edge
@@ -851,23 +851,23 @@ Lunar Blessing
 Take Heart
 Tera Blast
 Silk Trap
-Axe Kick
+High Jump Kick
 Last Respects
 Lumina Crash
 Order Up
 Jet Punch
 Spicy Extract
 Spin Out
-Population Bomb
+Befuddle
 Ice Spinner
-Glaive Rush
-Revival Blessing
+Dragon's Blade
+Necromancy
 Salt Cure
 Triple Dive
 Mortal Spin
 Doodle
 Fillet Away
-Kowtow Cleave
+False Surrender
 Flower Trick
 Torch Song
 Aqua Step
@@ -882,15 +882,15 @@ Shed Tail
 Chilly Reception
 Tidy Up
 Snowscape
-Pounce
+Lunge
 Trailblaze
 Chilling Water
 Hyper Drill
-Twin Beam
+Influx
 Rage Fist
 Armor Cannon
 Bitter Blade
-Double Shock
+Short Circuit
 Gigaton Hammer
 Comeuppance
 Aqua Cutter
@@ -899,17 +899,17 @@ Wicked Torque
 Noxious Torque
 Combat Torque
 Magical Torque
-Blood Moon
+Twilight Cannon
 Matcha Gotcha
 Syrup Bomb
 Ivy Cudgel
 Electro Shot
-Tera Starstorm
+Mineral Shower
 Fickle Beam
 Burning Bulwark
 Thunderclap
 Mighty Cleave
-Tachyon Cutter
+Mirror Cutter
 Hard Press
 Dragon Cheer
 Alluring Voice

@@ -172,7 +172,7 @@ Kelpsy Berry
 Qualot Berry
 Hondew Berry
 Grepa Berry
-Tamato Berry
+EV Reset Berry
 Cornn Berry
 Magost Berry
 Rabuta Berry
@@ -219,7 +219,7 @@ Quick Claw
 Soothe Bell
 Mental Herb
 Choice Band
-King’s Rock
+King's Rock
 Silver Powder
 Amulet Coin
 Cleanse Tag
@@ -450,7 +450,7 @@ Sprayduck
 Poffin Case
 Bike
 Suite Key
-Oak’s Letter
+Oak's Letter
 Lunar Feather
 Member Card
 Azure Flute
@@ -640,7 +640,7 @@ Reveal Glass
 Weakness Policy
 Assault Vest
 Holo Caster
-Prof’s Letter
+Prof's Letter
 Roller Skates
 Pixie Plate
 Ability Capsule
@@ -841,7 +841,7 @@ Pikashunium Z
 ???
 Forage Bag
 Fishing Rod
-Professor’s Mask
+Professor's Mask
 Festival Ticket
 Sparkling Stone
 Adrenaline Orb
@@ -945,7 +945,7 @@ N-Solarizer
 N-Lunarizer
 N-Solarizer
 N-Lunarizer
-Ilima’s Normalium Z
+Ilima's Normalium Z
 Left Poké Ball
 Roto Hatch
 Roto Bargain
@@ -1010,7 +1010,7 @@ Geodude Candy
 Ponyta Candy
 Slowpoke Candy
 Magnemite Candy
-Farfetch’d Candy
+Farfetch'd Candy
 Doduo Candy
 Seel Candy
 Grimer Candy
@@ -1083,8 +1083,8 @@ Rotom Bike
 ???
 ???
 Sausages
-Bob’s Food Tin
-Bach’s Food Tin
+Bob's Food Tin
+Bach's Food Tin
 Tin of Beans
 Bread
 Pasta
@@ -1269,7 +1269,7 @@ Catching Charm
 ???
 Old Letter
 Band Autograph
-Sonia’s Book
+Sonia's Book
 ???
 ???
 ???
@@ -1623,9 +1623,9 @@ Seed of Mastery
 Poké Ball
 ???
 Eternal Ice
-Uxie’s Claw
-Azelf’s Fang
-Mesprit’s Plume
+Uxie's Claw
+Azelf's Fang
+Mesprit's Plume
 Tumblestone
 Celestica Flute
 Remedy
@@ -1636,7 +1636,7 @@ Plump Beans
 Springy Mushroom
 Crunchy Salt
 Wood
-King’s Leaf
+King's Leaf
 Marsh Balm
 Poké Ball
 Great Ball
@@ -1829,12 +1829,12 @@ DS Sounds
 Legend Plate
 Rotom Phone
 Sandwich
-Koraidon’s Poké Ball
-Miraidon’s Poké Ball
+Koraidon's Poké Ball
+Miraidon's Poké Ball
 Tera Orb
 Scarlet Book
 Violet Book
-Kofu’s Wallet
+Kofu's Wallet
 
 
 
@@ -2343,7 +2343,7 @@ Smiling Vee Pick
 Blue Poké Ball Pick
 
 Auspicious Armor
-Leader’s Crest
+Leader's Crest
 
 
 Pink Bottle
@@ -2555,4 +2555,4 @@ Synchro Machine
 Meteorite
 Scarlet Book
 Violet Book
-Briar’s Book
+Briar's Book
