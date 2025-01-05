@@ -104,7 +104,7 @@ Mimic
 Screech
 Game Plan
 Recover
-Harden
+Fortify
 Deflate
 Smokescreen
 Confuse Ray
