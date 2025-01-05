@@ -10,7 +10,7 @@
 
   <PropertyGroup>
     <PackageId>PKHeX</PackageId>
-    <AssemblyName>ScarletHeX</AssemblyName>
+    <AssemblyName>ScrambledHeX</AssemblyName>
     <Description>Pokémon Scrambled Scarlet Save Editor</Description>
     <ApplicationIcon>Resources\icon.ico</ApplicationIcon>
     <StartupObject>PKHeX.WinForms.Program</StartupObject>
