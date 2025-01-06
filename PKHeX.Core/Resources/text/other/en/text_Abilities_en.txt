@@ -97,7 +97,7 @@ Quick Feet
 Normalize
 Ruthless
 Magic Guard
-No Guard
+Royal Decree
 Stall
 Technician
 Leaf Guard
@@ -160,23 +160,23 @@ Prankster
 Sand Force
 Barbed
 Zen Mode
-Victory Star
-Turboblaze
+Full House
+Hearthflame
 Teravolt
 Aroma Veil
 Flower Veil
-Cheek Pouch
+Metabolism
 Versatility
 Fur Coat
 Magician
 Bulletproof
 Competitive
-Strong Jaw
+Mega Launcher
 Refrigerate
 Sweet Veil
 Stance Change
 Gale Wings
-Mega Launcher
+OLD Mega Launcher (WRONG! NOT THIS ONE!)
 Grassy Guard
 Symbiosis
 Tough Claws
@@ -193,7 +193,7 @@ Guarding Gale
 Stamina
 Wimp Out
 Tactical Retreat
-Water Compaction
+Wellspring
 Merciless
 Shields Down
 Stakeout
@@ -233,8 +233,8 @@ Energy Shield
 Resilient
 Neuroforce
 Intrepid Sword
-Dauntless Shield
-Libero
+Cornerstone
+Hammer Time
 Ball Fetch
 Cotton Down
 Propeller Tail
